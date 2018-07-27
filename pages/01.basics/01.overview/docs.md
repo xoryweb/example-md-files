@@ -5,7 +5,11 @@ taxonomy:
 ---
 
 
-Let's face it: Writing content for the Web is tiresome, but not when you're testing Markdown on Github. WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
+Let's face it: Writing content for the Web is tiresome, but not when you're testing Markdown on Github.
+
+**I am now a collaborator.**
+
+WYSIWYG editors help alleviate this task, but they generally result in horrible code, or worse yet, ugly web pages.
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
